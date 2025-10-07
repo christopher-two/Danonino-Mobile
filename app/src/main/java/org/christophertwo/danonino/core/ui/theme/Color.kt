@@ -1,4 +1,4 @@
-package org.christophertwo.danonino.ui.theme
+package org.christophertwo.danonino.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
